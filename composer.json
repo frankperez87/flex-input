@@ -1,0 +1,25 @@
+{
+    "name" : "rgasch/flex-input",
+    "version":"1.0.0",
+    "description": "Flexible input handler for request inputs (POST, GET, PUT, DELETE, REQUEST, FILES, COOKIE) using filter_var()",
+    "keywords": ["input","filter","get","post","request","put","delete","files","cookie"],
+    "authors": [
+       {
+            "name": "Robert Gasch",
+            "email": "rgasch@gmail.com",
+            "homepage": ""
+        }
+    ],
+    "license":"LGPL",
+    "autoload": {
+       "psr-0": {
+            "rgasch\\FlexInput\\": "src"
+        },
+        "psr-4": {
+            "rgasch\\FlexInput\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
