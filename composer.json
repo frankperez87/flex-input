@@ -6,8 +6,7 @@
     "authors": [
        {
             "name": "Robert Gasch",
-            "email": "rgasch@gmail.com",
-            "homepage": ""
+            "email": "rgasch@gmail.com"
         }
     ],
     "license":"LGPL",
